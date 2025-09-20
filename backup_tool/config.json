@@ -1,0 +1,8 @@
+{
+  "project": "Backup Tool",
+  "version": "1.0",
+  "backup": "backup",
+  "max_files": 100, 
+  "allowed_extensions": [".txt", ".csv", ".log"]
+}
+
